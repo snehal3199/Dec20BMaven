@@ -14,7 +14,7 @@ public class Login1Test
 				"F:\\Velocity\\Selenium_Webdriver\\Selenium_files\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		
-		driver.manage().window().maximize();
+	
 		
 		Thread.sleep(2000);
 		driver.close();
